@@ -1,0 +1,1259 @@
+<>
+  <users>
+    <numusers=517/>
+    <maxid=1438/>
+    <logins/>
+    <totallogins=8437061/>
+    <maxlogins=79>
+      <date=1113396042/>
+    </maxlogins>
+  </users>
+  <locations>
+    <location=826>
+      <name="The Unfinished Project"/>
+      <hostname="*.unfinished.org.uk"/>
+      <lastuse=1218716552/>
+      <totaluses=1/>
+    </location>
+    <location=825>
+      <name="Orbital Cannon 7"/>
+      <hostname="mir.vm.bytemark.co.uk"/>
+      <lastuse=1220485421/>
+      <totaluses=135/>
+    </location>
+    <location=824>
+      <name="AmazonEC2"/>
+      <hostname="*.amazonaws.com"/>
+      <lastuse=1189028512/>
+      <totaluses=2/>
+    </location>
+    <location=823>
+      <name="The Message Trust"/>
+      <address="87.194.9.86"/>
+      <lastuse=1220534444/>
+      <totaluses=101/>
+    </location>
+    <location=822>
+      <name="Transvestites Ltd"/>
+      <address="195.11.98.194"/>
+      <lastuse=1201858874/>
+      <totaluses=111/>
+    </location>
+    <location=821>
+      <name="Firedrake"/>
+      <address="217.147.93.120"/>
+      <lastuse=1215467210/>
+      <totaluses=62/>
+    </location>
+    <location=820>
+      <name="France"/>
+      <hostname="*.fr"/>
+      <lastuse=1220027060/>
+      <totaluses=38/>
+    </location>
+    <location=819>
+      <name="Sky Broadband"/>
+      <address="90.192.0.0/12"/>
+      <lastuse=1219690984/>
+      <totaluses=1963/>
+    </location>
+    <location=818>
+      <name="Green Midget Cafe"/>
+      <address="217.158.33.125"/>
+      <lastuse=1169815741/>
+      <totaluses=18/>
+    </location>
+    <location=817>
+      <name="Down Under"/>
+      <hostname="*.au"/>
+      <lastuse=1157063804/>
+      <totaluses=10/>
+    </location>
+    <location=816>
+      <name="Turkey"/>
+      <address="88.240.0.0/16"/>
+      <lastuse=1186936838/>
+      <totaluses=32/>
+    </location>
+    <location=815>
+      <name="Manchester Computing VPN"/>
+      <hostname="vpn*.mcc.ac.uk"/>
+      <lastuse=1155342998/>
+      <totaluses=25/>
+    </location>
+    <location=814>
+      <name="Turkey"/>
+      <hostname="*.tr"/>
+    </location>
+    <location=813>
+      <name="TopperVS (tm)"/>
+      <address="87.237.59.64/27"/>
+      <lastuse=1220718701/>
+      <totaluses=253/>
+    </location>
+    <location=812>
+      <name="IntactHymen Airways"/>
+      <address="212.24.84.0/24"/>
+      <lastuse=1187864481/>
+      <totaluses=164/>
+    </location>
+    <location=811>
+      <name="Vodafone 3G"/>
+      <address="212.183.128.0/20"/>
+      <lastuse=1219478029/>
+      <totaluses=141/>
+    </location>
+    <location=810>
+      <name="Pikey Palace"/>
+      <address="87.237.56.54"/>
+      <lastuse=1220441826/>
+      <totaluses=191/>
+    </location>
+    <location=809>
+      <name="Electric Words"/>
+      <hostname="*.electricwords.org"/>
+      <lastuse=1147338803/>
+      <totaluses=106/>
+    </location>
+    <location=808>
+      <name="Eschatology Plc"/>
+      <address="194.247.44.210"/>
+      <lastuse=1206570793/>
+      <totaluses=1558/>
+    </location>
+    <location=807>
+      <name="The Erkle Establishment"/>
+      <hostname="*.erkle.org"/>
+      <address="217.151.105.0/29"/>
+      <lastuse=1180868495/>
+      <totaluses=912/>
+    </location>
+    <location=806>
+      <name="Manchester Poly"/>
+      <hostname="*.mmu.ac.uk"/>
+      <lastuse=1220005696/>
+      <totaluses=323/>
+    </location>
+    <location=805>
+      <name="Helsby High"/>
+      <address="194.187.32.1"/>
+      <lastuse=1219218774/>
+      <totaluses=236/>
+    </location>
+    <location=804>
+      <name="Tigger Family Tree"/>
+      <address="82.71.32.243"/>
+      <lastuse=1157914055/>
+      <totaluses=270/>
+    </location>
+    <location=803>
+      <name="Trimethylxanthine"/>
+      <address="81.2.91.87"/>
+      <lastuse=1162324728/>
+      <totaluses=376/>
+    </location>
+    <location=802>
+      <name="IlLogica"/>
+      <address="158.234.0.0/16"/>
+      <lastuse=1220601331/>
+      <totaluses=773/>
+    </location>
+    <location=801>
+      <name="Legend Communications plc"/>
+      <hostname="*.bsve.net"/>
+      <lastuse=1141981395/>
+      <totaluses=288/>
+    </location>
+    <location=800>
+      <name="Cheap Ohio Box"/>
+      <address="209.135.140.129"/>
+      <lastuse=1217321605/>
+      <totaluses=805/>
+    </location>
+    <location=799>
+      <name="Northrop Grumman"/>
+      <address="82.108.181.160/29"/>
+      <lastuse=1220534953/>
+      <totaluses=1953/>
+    </location>
+    <location=797>
+      <name="TurkTelecom"/>
+      <address="85.99.132.0/22"/>
+      <lastuse=1123685620/>
+      <totaluses=1/>
+    </location>
+    <location=796>
+      <name="Almost Legendary"/>
+      <address="195.13.89.14"/>
+      <lastuse=1123672835/>
+      <totaluses=8/>
+    </location>
+    <location=795>
+      <name="his house"/>
+      <hostname="cpc2-stre1-5-0-cust56.bagu.cable.ntl.com"/>
+      <lastuse=1220786393/>
+      <totaluses=6211/>
+      <address="217.169.15.240/29"/>
+    </location>
+    <location=794>
+      <name="mIscapitalised hOuse"/>
+      <address="213.253.141.5"/>
+      <lastuse=1141637468/>
+      <totaluses=61/>
+    </location>
+    <location=793>
+      <name="Flat 83"/>
+      <address="82.71.82.104/29"/>
+      <lastuse=1144175648/>
+      <totaluses=190/>
+    </location>
+    <location=792>
+      <name="BT Remote"/>
+      <hostname="*.btremoteinternet-dsl.bt.net"/>
+      <lastuse=1126174414/>
+      <totaluses=96/>
+    </location>
+    <location=791>
+      <name="Temet Nosce"/>
+      <hostname="*.temet-nosce.org.uk"/>
+      <lastuse=1152204170/>
+      <totaluses=99/>
+    </location>
+    <location=790>
+      <name="Lehman Brothers"/>
+      <hostname="*.lehman.com"/>
+    </location>
+    <location=789>
+      <name="ip.access"/>
+      <hostname="*.ipaccess.com"/>
+      <lastuse=1143146144/>
+      <totaluses=64/>
+    </location>
+    <location=788>
+      <name="Ultra Electronics"/>
+      <address="62.173.124.106"/>
+      <lastuse=1164028862/>
+      <totaluses=3/>
+    </location>
+    <location=786>
+      <name="BBC"/>
+      <hostname="*.bbc.co.uk"/>
+      <lastuse=1180096038/>
+      <totaluses=57/>
+    </location>
+    <location=785>
+      <name="Bradford Council"/>
+      <hostname="*.bradford.gov.uk"/>
+      <lastuse=1112274339/>
+      <totaluses=3/>
+    </location>
+    <location=784>
+      <name="DrKW"/>
+      <hostname="*.drkw.com"/>
+      <lastuse=1160135333/>
+      <totaluses=653/>
+    </location>
+    <location=783>
+      <name="23"/>
+      <hostname="*.twenty3.net"/>
+      <lastuse=1216548258/>
+      <totaluses=417/>
+    </location>
+    <location=782>
+      <name="newnet"/>
+      <hostname="*.newnet.co.uk"/>
+    </location>
+    <location=781>
+      <name="Abel Internet"/>
+      <address="193.108.218.0/24"/>
+      <lastuse=1154783581/>
+      <totaluses=46/>
+    </location>
+    <location=780>
+      <name="pureserver.info"/>
+      <hostname="*.pureserver.info"/>
+      <lastuse=1182379933/>
+      <totaluses=184/>
+    </location>
+    <location=779>
+      <name="comcast"/>
+      <hostname="*.comcast.net"/>
+      <lastuse=1219366871/>
+      <totaluses=392/>
+    </location>
+    <location=778>
+      <name="CompSoc"/>
+      <address="192.84.78.0/24"/>
+      <lastuse=1220738177/>
+      <totaluses=9846/>
+    </location>
+    <location=777>
+      <name="Starbug"/>
+      <hostname="starbug.teliko.co.uk"/>
+      <lastuse=1220207176/>
+      <totaluses=1181/>
+    </location>
+    <location=776>
+      <name="NTLi"/>
+      <hostname="*.ntli.net"/>
+      <lastuse=1147791562/>
+      <totaluses=105/>
+    </location>
+    <location=775>
+      <name="Easynet DSL"/>
+      <hostname="*.dsl.easynet.co.uk"/>
+      <lastuse=1120834288/>
+      <totaluses=205/>
+    </location>
+    <location=773>
+      <name="Compuweb"/>
+      <address="194.216.112.0/23"/>
+      <lastuse=1187942813/>
+      <totaluses=74/>
+      <location=774>
+        <name="frottage"/>
+        <address="194.216.112.171"/>
+        <lastuse=1170794963/>
+        <totaluses=269/>
+      </location>
+    </location>
+    <location=772>
+      <name="Jellybaby"/>
+      <hostname="*.jellybaby.net"/>
+      <lastuse=1220553618/>
+      <totaluses=1435/>
+    </location>
+    <location=771>
+      <name="Flarg"/>
+      <hostname="*.flarg.net"/>
+      <lastuse=1209734008/>
+      <totaluses=137/>
+    </location>
+    <location=767>
+      <name="Bytemark Hosting"/>
+      <address="80.68.80.0/20"/>
+      <lastuse=1220515655/>
+      <totaluses=505/>
+      <location=768>
+        <name="Caffeine"/>
+        <address="80.68.88.207"/>
+        <lastuse=1220786702/>
+        <totaluses=47645/>
+      </location>
+    </location>
+    <location=766>
+      <name="readingConnect"/>
+      <hostname="*.readingconnect.net"/>
+      <lastuse=1097749720/>
+      <totaluses=1/>
+    </location>
+    <location=764>
+      <name="Telekomunikacja Polska"/>
+      <address="212.160.172.0/24"/>
+      <lastuse=1133189514/>
+      <totaluses=378/>
+    </location>
+    <location=763>
+      <name="Lancaster University"/>
+      <hostname="*.lancs.ac.uk"/>
+      <lastuse=1220604763/>
+      <totaluses=1043/>
+    </location>
+    <location=762>
+      <name="O2 mobile"/>
+      <hostname="mobileweb03.london.02.net"/>
+      <lastuse=1167164112/>
+      <totaluses=78/>
+    </location>
+    <location=761>
+      <name="Helsby High"/>
+      <address="212.248.226.0/24"/>
+      <lastuse=1127302077/>
+      <totaluses=242/>
+    </location>
+    <location=760>
+      <name="\"The\" geek house"/>
+      <hostname="thegeekhouse.org"/>
+      <lastuse=1096915665/>
+      <totaluses=1/>
+    </location>
+    <location=759>
+      <name="Bulldog DSL"/>
+      <address="83.146.61.125"/>
+      <lastuse=1118424505/>
+      <totaluses=56/>
+    </location>
+    <location=758>
+      <name="Civil Service land"/>
+      <hostname="*.gsi.gov.uk"/>
+      <lastuse=1217491618/>
+      <totaluses=352/>
+    </location>
+    <location=757>
+      <name="North Lindsey College"/>
+      <address="195.195.239.160/27"/>
+      <lastuse=1115831607/>
+      <totaluses=135/>
+    </location>
+    <location=755>
+      <name="andstuff.org.uk"/>
+      <hostname="*.andstuff.org.uk"/>
+      <lastuse=1102866086/>
+      <totaluses=47/>
+    </location>
+    <location=754>
+      <name="Near to Russia, Far from Japan"/>
+      <hostname="*.fi"/>
+      <lastuse=1177614584/>
+      <totaluses=18/>
+    </location>
+    <location=753>
+      <name="Institute Of Physics"/>
+      <address="82.108.34.248/29"/>
+      <lastuse=1095174748/>
+      <totaluses=1/>
+    </location>
+    <location=752>
+      <name="Poland"/>
+      <hostname="*.pl"/>
+      <lastuse=1203693838/>
+      <totaluses=422/>
+    </location>
+    <location=751>
+      <name="Bulldog"/>
+      <hostname="*.bulldogdsl.com"/>
+      <lastuse=1200740060/>
+      <location=798>
+        <name="Amerland Networks"/>
+        <address="87.74.1.185"/>
+        <lastuse=1200950898/>
+        <totaluses=1133/>
+      </location>
+      <totaluses=2403/>
+      <location=333>
+        <name="Amerland Networks Inc."/>
+        <hostname="*.1amerland.net"/>
+        <lastuse=1119911834/>
+        <totaluses=2490/>
+        <address="83.146.11.34"/>
+      </location>
+    </location>
+    <location=748>
+      <name="Virgin Islands"/>
+      <hostname="*.vi"/>
+      <lastuse=1119637252/>
+      <totaluses=25/>
+    </location>
+    <location=747>
+      <name="Corpus Piscis"/>
+      <hostname="*.necrofish.org.uk"/>
+      <lastuse=1220024157/>
+      <totaluses=1078/>
+    </location>
+    <location=746>
+      <name="Alibi"/>
+      <hostname="alibi.simon-cozens.org"/>
+      <lastuse=1121247271/>
+      <totaluses=11/>
+    </location>
+    <location=745>
+      <name="Vienna"/>
+      <address="217.19.47.244"/>
+      <lastuse=1086703727/>
+      <totaluses=1/>
+    </location>
+    <location=743>
+      <name="Eclipse ADSL"/>
+      <address="81.168.90.0/24"/>
+      <lastuse=1192429780/>
+      <totaluses=1840/>
+    </location>
+    <location=741>
+      <name="BMC"/>
+      <hostname="*.bmc.com"/>
+      <lastuse=1113472301/>
+      <totaluses=643/>
+    </location>
+    <location=740>
+      <name="Vispa"/>
+      <hostname="*.vispa.com"/>
+      <lastuse=1109252373/>
+      <totaluses=219/>
+    </location>
+    <location=738>
+      <name="IPEC"/>
+      <hostname="i-195-137-55-40.freedom2surf.net"/>
+      <lastuse=1105107887/>
+      <totaluses=49/>
+    </location>
+    <location=734>
+      <name="His is a pint"/>
+      <hostname="minesapint.net"/>
+      <lastuse=1108142779/>
+      <totaluses=103/>
+    </location>
+    <location=729>
+      <name="Sun"/>
+      <hostname="*.sun.com"/>
+      <lastuse=1219577225/>
+      <totaluses=397/>
+    </location>
+    <location=728>
+      <name="parm's pad"/>
+      <hostname="home.parm.net"/>
+      <lastuse=1157914055/>
+      <totaluses=370/>
+    </location>
+    <location=724>
+      <name="Jude's Eworld"/>
+      <address="82.68.136.120/29"/>
+      <lastuse=1119631638/>
+      <totaluses=1342/>
+      <address="217.155.163.136 /29"/>
+    </location>
+    <location=723>
+      <name="WCTYWBTWHTKY"/>
+      <hostname="*.zqwdrqsz.com"/>
+      <lastuse=1121410360/>
+      <totaluses=667/>
+      <address="20.133.0.14"/>
+    </location>
+    <location=721>
+      <name="Shortbread"/>
+      <address="81.174.176.233"/>
+      <lastuse=1127864726/>
+      <totaluses=22/>
+    </location>
+    <location=720>
+      <name="heth's hovel"/>
+      <address="82.133.0.212"/>
+      <lastuse=1093511093/>
+      <totaluses=96/>
+    </location>
+    <location=719>
+      <name="The Message Trust"/>
+      <address="81.86.7.217"/>
+      <lastuse=1173358721/>
+      <totaluses=1146/>
+      <address="81.86.102.250"/>
+    </location>
+    <location=718>
+      <name="SIA Limited"/>
+      <address="213.2.77.56"/>
+      <lastuse=1155905513/>
+      <totaluses=589/>
+    </location>
+    <location=717>
+      <name="Manque"/>
+      <address="212.13.203.5"/>
+      <lastuse=1218716552/>
+      <totaluses=248/>
+    </location>
+    <location=715>
+      <name="N14"/>
+      <hostname="*.jasonandalishouse.org.uk"/>
+      <lastuse=1093355104/>
+      <totaluses=291/>
+    </location>
+    <location=713>
+      <name="The KLuB"/>
+      <address="62.3.225.99"/>
+      <lastuse=1087977388/>
+      <totaluses=131/>
+    </location>
+    <location=711>
+      <name="easynet"/>
+      <hostname="*.easynet.net"/>
+      <lastuse=1167997077/>
+      <totaluses=792/>
+    </location>
+    <location=710>
+      <name="Pikeyshell"/>
+      <hostname="*.freeshell.org"/>
+      <lastuse=1121152289/>
+      <totaluses=3/>
+    </location>
+    <location=707>
+      <name="Orion"/>
+      <address="80.177.6.224"/>
+      <lastuse=1086982759/>
+      <totaluses=590/>
+    </location>
+    <location=704>
+      <name="The Firm"/>
+      <hostname="*.trowersservices.co.uk"/>
+      <lastuse=1220609248/>
+      <totaluses=1103/>
+      <address="62.173.113.0/27"/>
+    </location>
+    <location=699>
+      <name="Pikey Place"/>
+      <hostname="*.access.vodafone.net"/>
+      <lastuse=1141414717/>
+      <totaluses=332/>
+    </location>
+    <location=692>
+      <name="NHSnet"/>
+      <address="195.107.47.0/24"/>
+      <lastuse=1156508844/>
+      <totaluses=904/>
+      <hostname="*.nhs.uk"/>
+    </location>
+    <location=691>
+      <name="Probably uaHTTP"/>
+      <hostname="ua2"/>
+      <lastuse=1218103040/>
+      <totaluses=13420/>
+    </location>
+    <location=690>
+      <name="Welwyn Garden City"/>
+      <address="80.177.85.112/28"/>
+      <lastuse=1220479078/>
+      <totaluses=284/>
+    </location>
+    <location=684>
+      <name="Norweb ADSL"/>
+      <address="195.8.165.0/24"/>
+      <lastuse=1168347103/>
+      <totaluses=89/>
+    </location>
+    <location=683>
+      <name="Freedom2Surf"/>
+      <address="195.137.0.0/17"/>
+      <lastuse=1103889282/>
+      <totaluses=10/>
+    </location>
+    <location=681>
+      <name="IMServ Europe ltd."/>
+      <address="213.249.146.0/24"/>
+      <lastuse=1213708622/>
+      <totaluses=1569/>
+    </location>
+    <location=680>
+      <name="Orange GPRS"/>
+      <hostname="future-is.orange.co.uk"/>
+      <lastuse=1175778578/>
+      <totaluses=850/>
+    </location>
+    <location=675>
+      <name="Reyrolle, Newcastle"/>
+      <address="195.166.97.97"/>
+      <lastuse=1088593459/>
+      <totaluses=144/>
+    </location>
+    <location=673>
+      <name="Swift Internet"/>
+      <hostname="*.swift-internet.com"/>
+      <lastuse=1220725677/>
+      <totaluses=3344/>
+    </location>
+    <location=671>
+      <name="PlusNet"/>
+      <hostname="*.plus.com"/>
+      <lastuse=1220785881/>
+      <totaluses=5118/>
+      <address="212.159.64.0/18"/>
+    </location>
+    <location=665>
+      <name="Compsoc in the Union"/>
+      <address="130.88.22.5"/>
+      <lastuse=1127402058/>
+      <totaluses=19488/>
+    </location>
+    <location=661>
+      <name="The Dwelling"/>
+      <address="217.205.192.192/28"/>
+      <lastuse=1089295957/>
+      <totaluses=14/>
+    </location>
+    <location=651>
+      <name="Amkor"/>
+      <address="12.105.180.128/25"/>
+      <lastuse=1121988821/>
+      <totaluses=1015/>
+    </location>
+    <location=644>
+      <name="Ready Room 2"/>
+      <address="130.88.202.58"/>
+      <lastuse=1218716552/>
+      <totaluses=820/>
+    </location>
+    <location=639>
+      <name="Southampton Uni"/>
+      <address="152.78.0.0/16"/>
+      <lastuse=1157020097/>
+      <totaluses=396/>
+    </location>
+    <location=630>
+      <name="Tiscali"/>
+      <hostname="*.tiscali.com"/>
+      <lastuse=1182970480/>
+      <totaluses=1351/>
+    </location>
+    <location=626>
+      <name="PIPEX ADSL"/>
+      <hostname="*.dsl.pipex.com"/>
+      <lastuse=1198770845/>
+      <totaluses=6580/>
+      <address="81.86.128.0/18"/>
+    </location>
+    <location=615>
+      <name="Oops - See RFC1918"/>
+      <address="10.0.0.0/8"/>
+      <lastuse=1218701024/>
+      <totaluses=999/>
+    </location>
+    <location=588>
+      <name="Dragonhold"/>
+      <hostname="*.dragonhold.org"/>
+      <lastuse=1218716552/>
+      <totaluses=2530/>
+      <address="130.88.202.100"/>
+    </location>
+    <location=586>
+      <name="Belgium"/>
+      <hostname="*.be"/>
+      <lastuse=1207044855/>
+      <totaluses=707/>
+    </location>
+    <location=583>
+      <name="FT Interactive Data"/>
+      <address="172.22.104.0/24"/>
+      <lastuse=1118393773/>
+      <totaluses=4284/>
+    </location>
+    <location=578>
+      <name="Zen"/>
+      <hostname="*.zen.co.uk"/>
+      <lastuse=1220717053/>
+      <totaluses=14214/>
+      <address="82.68.0.0/14"/>
+      <location=765>
+        <name="Ursa Minor Beta"/>
+        <lastuse=1112804421/>
+        <totaluses=498/>
+        <address="84.9.223.7"/>
+      </location>
+    </location>
+    <location=560>
+      <name="BT"/>
+      <hostname="*.bt.com"/>
+      <lastuse=1176383928/>
+      <totaluses=204/>
+    </location>
+    <location=558>
+      <name="Void"/>
+      <hostname="void.printf.net"/>
+      <lastuse=1220743903/>
+      <totaluses=1705/>
+    </location>
+    <location=525>
+      <name="CSG Systems"/>
+      <address="194.216.105.0/27"/>
+      <lastuse=1082472575/>
+      <totaluses=279/>
+      <hostname="*.lucent.com"/>
+    </location>
+    <location=520>
+      <name="frottage"/>
+      <hostname="*.frottage.org"/>
+      <lastuse=1128815656/>
+      <totaluses=6887/>
+    </location>
+    <location=497>
+      <name="BigBlueSky"/>
+      <hostname="*.webport.bt.net"/>
+      <lastuse=1156454104/>
+      <totaluses=168/>
+    </location>
+    <numlocations=302/>
+    <maxid=597/>
+    <location=214>
+      <name="Demon"/>
+      <location=731>
+        <name="Thus Evil NAT Land"/>
+        <hostname="anchor-internet-1-if0.router.demon.net"/>
+        <lastuse=1100173344/>
+        <totaluses=5/>
+      </location>
+      <location=686>
+        <name="Morph's pencil box"/>
+        <hostname="adlynn.demon.co.uk"/>
+        <lastuse=1104827256/>
+        <totaluses=523/>
+      </location>
+      <location=669>
+        <name="Demon ADSL"/>
+        <address="80.177.0.0/15"/>
+        <lastuse=1220689184/>
+        <totaluses=2294/>
+      </location>
+      <hostname="*.demon.*"/>
+      <lastuse=1220651987/>
+      <totaluses=5310/>
+      <numlocations=-1/>
+      <location=467>
+        <name="GreyVille"/>
+        <lastuse=1114774411/>
+        <totaluses=977/>
+        <hostname="bigheart.networks.demon.net"/>
+      </location>
+    </location>
+    <location=216>
+      <name="Germany"/>
+      <hostname="*.de"/>
+      <lastuse=1220642630/>
+      <totaluses=7452/>
+    </location>
+    <location=224>
+      <name="UK Academia"/>
+      <location=769>
+        <name="Manchester University Halls"/>
+        <hostname="*.halls.manchester.ac.uk"/>
+        <lastuse=1189160478/>
+        <totaluses=406/>
+        <location=770>
+          <name="Opal Gardens"/>
+          <hostname="opg*.halls.manchester.ac.uk"/>
+          <lastuse=1126254929/>
+          <totaluses=526/>
+        </location>
+      </location>
+      <hostname="*.ac.uk"/>
+      <location=226>
+        <name="Oxford University"/>
+        <hostname="*.ox.ac.uk"/>
+        <lastuse=1178494173/>
+        <location=750>
+          <name="JR2 Wing"/>
+          <hostname="*.ndm.ox.ac.uk"/>
+          <lastuse=1120755847/>
+          <totaluses=12/>
+        </location>
+        <totaluses=234/>
+        <location=714>
+          <name="TCTSNBN"/>
+          <hostname="*.stannes.ox.ac.uk"/>
+          <lastuse=1183469709/>
+          <totaluses=35/>
+        </location>
+      </location>
+      <location=230>
+        <name="Manchester University"/>
+        <location=787>
+          <name="Manchester Computing"/>
+          <hostname="*.mc.man.ac.uk"/>
+          <lastuse=1220613105/>
+          <totaluses=2188/>
+        </location>
+        <hostname="*.man.ac.uk"/>
+        <location=231>
+          <name="Manchester CS"/>
+          <hostname="*.cs.man.ac.uk"/>
+          <location=235>
+            <name="Manchester CS Eng Lab"/>
+            <hostname="eng*.cs.man.ac.uk"/>
+            <lastuse=1130425352/>
+            <totaluses=3693/>
+          </location>
+          <location=236>
+            <name="Manchester CS Undergrad Lab"/>
+            <hostname="ug*.cs.man.ac.uk"/>
+            <lastuse=1129114415/>
+            <totaluses=1369/>
+          </location>
+          <lastuse=1220597413/>
+          <totaluses=2739/>
+        </location>
+        <location=233>
+          <name="Jodrell Bank"/>
+          <hostname="*.jb.man.ac.uk"/>
+          <lastuse=1133522030/>
+          <totaluses=1931/>
+          <numlocations=-1/>
+          <address="130.88.9.11"/>
+        </location>
+        <location=238>
+          <name="Owens Park"/>
+          <hostname="*.owp.man.ac.uk"/>
+          <lastuse=1190737380/>
+          <totaluses=136/>
+        </location>
+        <location=239>
+          <name="Sheavyn House"/>
+          <hostname="*.she.man.ac.uk"/>
+          <lastuse=1086818480/>
+          <totaluses=1347/>
+        </location>
+        <numlocations=-4/>
+        <lastuse=1220696479/>
+        <totaluses=2758/>
+        <location=469>
+          <name="JRULM"/>
+          <lastuse=1190380478/>
+          <totaluses=182/>
+          <hostname="*.li.man.ac.uk"/>
+        </location>
+      </location>
+      <location=246>
+        <name="Manchester Computing"/>
+        <hostname="*.mcc.ac.uk"/>
+        <lastuse=1220617351/>
+        <totaluses=5467/>
+      </location>
+      <location=248>
+        <name="Reading University"/>
+        <hostname="*.rdg.ac.uk"/>
+        <lastuse=1159782013/>
+        <totaluses=1785/>
+      </location>
+      <lastuse=1220601107/>
+      <totaluses=1536/>
+      <location=251>
+        <name="UMIST"/>
+        <hostname="*.umist.ac.uk"/>
+        <location=517>
+          <name="UMIST halls"/>
+          <hostname="*.halls.umist.ac.uk"/>
+          <lastuse=1086949494/>
+          <totaluses=148/>
+        </location>
+        <lastuse=1211385911/>
+        <totaluses=1171/>
+        <location=529>
+          <name="UMIST Computation"/>
+          <hostname="*.co.umist.ac.uk"/>
+          <lastuse=1096989584/>
+          <totaluses=71/>
+        </location>
+      </location>
+      <numlocations=-1/>
+      <location=458>
+        <name="Cambridge University"/>
+        <hostname="*.cam.ac.uk"/>
+        <lastuse=1219958053/>
+        <totaluses=2715/>
+      </location>
+      <location=509>
+        <name="Swansea Uni"/>
+        <hostname="*.swan.ac.uk"/>
+        <lastuse=1154677474/>
+        <totaluses=594/>
+      </location>
+      <location=518>
+        <name="Bath Unee"/>
+        <hostname="*.bath.ac.uk"/>
+        <lastuse=1079802449/>
+        <totaluses=53/>
+      </location>
+      <location=698>
+        <name="Medical Research Council"/>
+        <hostname="*.mrc.ac.uk"/>
+        <lastuse=1084264595/>
+        <totaluses=136/>
+      </location>
+    </location>
+    <location=253>
+      <name="AOL"/>
+      <hostname="*.aol.com"/>
+      <lastuse=1186248587/>
+      <totaluses=1062/>
+    </location>
+    <location=257>
+      <name="ua2"/>
+      <hostname="localhost"/>
+      <lastuse=1220786431/>
+      <totaluses=375006/>
+    </location>
+    <location=265>
+      <name="Yahoo!"/>
+      <hostname="*.yahoo.com"/>
+      <lastuse=1196507198/>
+      <totaluses=943/>
+    </location>
+    <location=279>
+      <name="Virgin Net"/>
+      <hostname="*.virgin.net"/>
+      <lastuse=1220733345/>
+      <totaluses=1714/>
+    </location>
+    <location=320>
+      <name="riffraff"/>
+      <hostname="riffraff.plig.net"/>
+      <lastuse=1219055578/>
+      <totaluses=9577/>
+    </location>
+    <location=321>
+      <name="Active High"/>
+      <hostname="*.active-high.co.uk"/>
+      <lastuse=1130680280/>
+      <totaluses=5014/>
+    </location>
+    <location=346>
+      <name="Denmark"/>
+      <address="193.0.60.249"/>
+      <hostname="*.dk"/>
+      <lastuse=1215643554/>
+      <totaluses=239/>
+    </location>
+    <location=368>
+      <name="Morse Group"/>
+      <hostname="mail.morse.co.uk"/>
+      <lastuse=1089308804/>
+      <totaluses=219/>
+      <address="195.219.8.0/24"/>
+    </location>
+    <location=370>
+      <name="BT Internet"/>
+      <hostname="*.btcentralplus.com"/>
+      <lastuse=1220607048/>
+      <totaluses=15957/>
+      <address="213.120.0.0/14"/>
+    </location>
+    <location=371>
+      <name="Bumper"/>
+      <hostname="bumper.jellybaby.net"/>
+      <lastuse=1104250923/>
+      <totaluses=41784/>
+    </location>
+    <location=383>
+      <name="NTL"/>
+      <hostname="*.ntl.com"/>
+      <lastuse=1220696991/>
+      <totaluses=32996/>
+      <location=716>
+        <name="Percy's Temple"/>
+        <address="81.104.25.202"/>
+        <lastuse=1088666040/>
+        <totaluses=1103/>
+        <address="81.104.25.112"/>
+        <hostname="public1-with1-6-cust17.bagu.broadband.ntl.com"/>
+        <hostname="public1-with1-6-cust146.bagu.broadband.ntl.com"/>
+      </location>
+      <address="82.16.0.0/14"/>
+    </location>
+    <location=385>
+      <name="Freeserve"/>
+      <hostname="*.dialup.pol.co.uk"/>
+      <lastuse=1194881856/>
+      <totaluses=12643/>
+      <address="62.136.128.0/18"/>
+    </location>
+    <location=388>
+      <name="DSVR"/>
+      <hostname="*.dsvr.net"/>
+      <lastuse=1193856510/>
+      <totaluses=4622/>
+      <address="212.69.192.0/19"/>
+    </location>
+    <location=410>
+      <name="IBM"/>
+      <hostname="*.ibm.com"/>
+      <lastuse=1125670551/>
+      <totaluses=1104/>
+    </location>
+    <location=447>
+      <name="BT Openwhore"/>
+      <hostname="*.btopenworld.com"/>
+      <lastuse=1219053261/>
+      <totaluses=3282/>
+    </location>
+    <location=455>
+      <name="blueyonder CM"/>
+      <hostname="*.blueyonder.co.uk"/>
+      <lastuse=1220733254/>
+      <totaluses=9724/>
+    </location>
+    <location=492>
+      <name="Spoon"/>
+      <hostname="spoon.pkl.net"/>
+      <lastuse=1127671851/>
+      <totaluses=1525/>
+      <address="212.111.57.14"/>
+    </location>
+    <location=508>
+      <name="SUCS"/>
+      <address="137.44.0.0/16"/>
+      <lastuse=1151620662/>
+      <totaluses=197/>
+    </location>
+  </locations>
+  <channels>
+    <maxid=14939/>
+    <numchannels=2/>
+    <nummsgs=0/>
+    <totalmsgs=0/>
+  </channels>
+  <system>
+    <uptime=1217761202/>
+    <name="UNaXcess"/>
+    <version="2.7-beta13"/>
+    <protocol="2.7-beta13"/>
+    <buildnum=120/>
+    <builddate="03/09/2004"/>
+    <buildtime="09:26"/>
+    <downtime=1217037852/>
+    <contactfolder=384/>
+    <banner="Welcome to...
+  _   _ _   _      __  __
+ | | | | \\ | | __ _\\ \\/ /___ ___  ___ ___
+ | | | |  \\| |/ _` |\\  // __/ _ \\/ __/ __|
+ | |_| | |\\  | (_| |/  \\ (_|  __/\\__ \\__ \\
+  \\___/|_| \\_|\\__,_/_/\\_\\___\\___||___/___/
+
+Hiding in plain sight since, ooh, ages ago"/>
+    <database="ua27live"/>
+    <dbuser="ua"/>
+    <dbpassword="fuck88pig"/>
+    <connection>
+      <trust>
+        <hostname="riffraff.plig.net"/>
+        <hostname="ua2"/>
+        <address="130.88.200.44"/>
+        <hostname="compsoc.umu.man.ac.uk"/>
+        <hostname="localhost"/>
+        <hostname="xeon.compsoc.man.ac.uk"/>
+        <hostname="o: Parm"/>
+      </trust>
+      <allow>
+        <hostname="rgeHadronColliderPodcast"/>
+        <hostname="rgeHadronColliderPodcast"/>
+      </allow>
+    </connection>
+    <maxid=5624/>
+    <newuser="You are requested to give your full name (not just initials) and email address. This information will only be seen by the system administrators. Once the information you give has been checked over, you will gain full user status.
+
+You can choose to be known by whatever name you like on UNaXcess. Most users like to use a name that is short and imaginative. Please don't select a name which might cause offence to people!
+
+Any personal information you give will be stored and we will keep everything confidential.
+
+If you are not happy about this, don't register!"/>
+    <mimetypes="/etc/mime.types"/>
+    <maxconns=80/>
+    <attachmentsize=16384/>
+    <task=1>
+      <date=1013375296/>
+      <fromid=4/>
+      <minute=0/>
+      <hour=3/>
+      <nexttime=1220839200/>
+      <repeat=1/>
+      <request="system_maintenance"/>
+    </task>
+    <service=1>
+      <name="Yahoo"/>
+      <providerid=896/>
+      <servicetype=3/>
+    </service>
+    <task=2>
+      <date=1067535395/>
+      <fromid=4/>
+      <nexttime=1067558700/>
+      <request="system_edit">
+        <banner="Welcome my friends! Come closer, come closer...
+
+                                /\\
+                              _/__\\_
+       - Are we nearly        /( o\\
+       there yet?        /|  // \\-'
+                    __  ( o,    /\\
+                      ) / |    / _\\
+               >>>>==(_(__u---(___ )-----
+                                 //
+                                /__)
+
+
+                   _   _   _    _           _           _ 
+ _ __ _____      _| | | | / \\  | |__   __ _| |__   __ _| |
+| '_ ` _ \\ \\ /\\ / / | | |/ _ \\ | '_ \\ / _` | '_ \\ / _` | |
+| | | | | \\ V  V /| |_| / ___ \\| | | | (_| | | | | (_| |_|
+|_| |_| |_|\\_/\\_/  \\___/_/   \\_\\_| |_|\\__,_|_| |_|\\__,_(_)"/>
+      </request>
+      <done=1/>
+    </task>
+    <expire=1209600/>
+    <task=3>
+      <date=1104508421/>
+      <fromid=4/>
+      <nexttime=1104537600/>
+      <request="system_edit">
+        <banner="                           -- (*) --
+                              >*<
+                             >0<@<
+                            >>>@<<*
+                           >@>*<0<<<
+                          >*>>@<<<@<<
+                         >@>>0<<<*<<@<
+                        >*>>0<<@<<<@<<<
+                       >@>>*<<@<>*<<0<*<
+         \\*/          >0>>*<<@<>0><<*<@<<
+     ___\\\\U//___     >*>>@><0<<*>>@><*<0<<
+     |\\\\ | | \\\\|    >@>>0<*<0>>@<<0<<<*<@<<
+     | \\\\| | _(UU)_ >((*))_>0><*<0><@<<<0<*<
+     |\\ \\| || / //||.*.*.*.|>>@<<*<<@>><0<<<
+jgs  |\\\\_|_|&&_// ||*.*.*.*|_\\\\db//_
+     \"\"\"\"|'.'.'.|~~|.*.*.*|     ____|_
+         |'.'.'.|   ^^^^^^|____|>>>>>>|
+                 ~~~~~~~~         '\"\"\"\"`------'
+
+   Welcome to UA, and Happy New Year!"/>
+      </request>
+      <done=1/>
+    </task>
+    <idletime=1200/>
+    <requests=791736/>
+    <announces=56381/>
+    <mainttime=1220752804/>
+  </system>
+  <nummsgs=4/>
+  <totalmsgs=476/>
+  <numfolders=0/>
+  <maxid=494815/>
+  <connections>
+    <maxid=1011/>
+  </connections>
+  <folders/>
+  <services>
+    <service=1>
+      <name="Yahoo"/>
+      <providerid=896/>
+      <servicetype=3/>
+    </service>
+    <service=2>
+      <name="Amerland"/>
+      <providerid=1595/>
+      <servicetype=3/>
+    </service>
+    <service=3>
+      <name="MSN"/>
+      <providerid=1653/>
+      <servicetype=3/>
+    </service>
+    <service=4>
+      <name="Shed"/>
+      <providerid=1701/>
+      <servicetype=1/>
+    </service>
+    <service=5>
+      <name="Racing Demons"/>
+      <content-type="application/x-game-demon"/>
+      <providerid=1701/>
+      <servicetype=1/>
+    </service>
+    <service=6>
+      <name="Frottage"/>
+      <providerid=1595/>
+      <servicetype=3/>
+    </service>
+    <service=7>
+      <name="Email"/>
+      <providerid=1291/>
+      <servicetype=1/>
+    </service>
+    <service=8>
+      <name="Email"/>
+      <providerid=1291/>
+      <servicetype=1/>
+    </service>
+  </services>
+</>
